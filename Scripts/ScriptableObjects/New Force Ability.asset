@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d939d073f8907e242ba62b430bc5db72, type: 3}
+  m_Name: New Force Ability
+  m_EditorClassIdentifier: 
+  aName: New Ability
+  aSprite: {fileID: 21300000, guid: 99fc20a6284c6f74f82153939330a6a3, type: 3}
+  aSound: {fileID: 0}
+  aBaseCoolDown: 4
+  aDuration: 1.25
+  aID: 1
+  force: 0

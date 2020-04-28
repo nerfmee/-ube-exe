@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d939d073f8907e242ba62b430bc5db72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aSprite: {instanceID: 0}
+  - aSound: {instanceID: 0}
+  - pRayer: {fileID: 5563181063128368547, guid: 2b081e7bb25e4b94ebb50ab5250a2f51,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
