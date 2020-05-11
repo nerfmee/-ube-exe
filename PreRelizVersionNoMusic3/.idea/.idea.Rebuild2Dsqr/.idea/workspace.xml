@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1a29bf6-7b67-4db0-a5ca-48473f14972e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/CameraShake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityAdsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spells/DeflectAbility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spells/AbilityDuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spells/AbilityCoolDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.1/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.1.8/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ads@3.4.4/Runtime/Advertisement/Platform/Editor/EditorPlatform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClickScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/ScaleTween.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spells/DeflectAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/InputMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimatedUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestButtonsMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestButtonMoving.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/CameraShake.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityAdsScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/GameController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spells/AbilityCoolDown.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1alDh1ZivwxLaPqUnaGMRD0hPnN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a29bf6-7b67-4db0-a5ca-48473f14972e" name="Default Changelist" comment="" />
+      <created>1587301401111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587301401111</updated>
+      <workItem from="1587301402534" duration="743000" />
+      <workItem from="1587310233772" duration="1764000" />
+      <workItem from="1587312638901" duration="5400000" />
+      <workItem from="1587459755573" duration="1492000" />
+      <workItem from="1587534438777" duration="609000" />
+      <workItem from="1587550181740" duration="785000" />
+      <workItem from="1587559580034" duration="5785000" />
+      <workItem from="1587566673073" duration="5521000" />
+      <workItem from="1587628699540" duration="941000" />
+      <workItem from="1587708328594" duration="3194000" />
+      <workItem from="1587820851053" duration="1879000" />
+      <workItem from="1587831981736" duration="4654000" />
+      <workItem from="1587837009528" duration="4000" />
+      <workItem from="1587837093003" duration="1833000" />
+      <workItem from="1587839140111" duration="568000" />
+      <workItem from="1587891447602" duration="7393000" />
+      <workItem from="1587903535350" duration="730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="1089" y="397" key="RiderGenerateDialog" timestamp="1587834761864">
+      <screen x="0" y="0" width="2560" height="1394" />
+    </state>
+    <state x="1089" y="397" key="RiderGenerateDialog/2560.245.1680.1004/0.0.2560.1394@0.0.2560.1394" timestamp="1587834761864" />
+    <state x="943" y="313" width="672" height="678" key="search.everywhere.popup" timestamp="1587897779748">
+      <screen x="0" y="0" width="2560" height="1394" />
+    </state>
+    <state x="943" y="313" width="672" height="678" key="search.everywhere.popup/2560.245.1680.1004/0.0.2560.1394@0.0.2560.1394" timestamp="1587897779748" />
+  </component>
+</project>
