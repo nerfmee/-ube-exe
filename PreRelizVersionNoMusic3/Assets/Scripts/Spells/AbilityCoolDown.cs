@@ -29,9 +29,6 @@ public class AbilityCoolDown : MonoBehaviour
 
     bool click;
 
-    
-    
-
     void Start()
     {
         Initialize(ability);
@@ -56,9 +53,6 @@ public class AbilityCoolDown : MonoBehaviour
         id = ability.aID;
 
         abilityDuration = ability.aDuration;
-
-        
-       
 
         AbilityReady();
     }

@@ -18,8 +18,4 @@ public class SpeellsAndroidInput : MonoBehaviour
     {
         _forceButton.onClick.Invoke();
     }
-
-
-
-
 }
