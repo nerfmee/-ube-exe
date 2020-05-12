@@ -36,7 +36,8 @@ public class Player : MonoBehaviour
     [SerializeField] private Text ememyText;
     [SerializeField ] public  GameObject  healthh;
     [SerializeField] private EnemySpawner enemySpawn;
-    
+
+    [SerializeField] private AudioSource _audioSource;
     
     public Button deflect;
     public Button force;
@@ -127,7 +128,7 @@ public class Player : MonoBehaviour
         {
             force.onClick.Invoke();
         }
-          Movement();
+        Movement();
     }
 
 
@@ -165,7 +166,7 @@ public class Player : MonoBehaviour
         else if (obj.tag == "RedSquare" && (p_abilitys[0].immune == true   || p_abilitys[1].immune == true) )
         {
             coinsInt += 200;
-            
+            _audioSource.Play();
             CameraShake.Shake(0.2f,0.5f);
             GameObject effectIns = Instantiate(impactEffect, transform.position, transform.rotation);
             Destroy(effectIns, 2f);

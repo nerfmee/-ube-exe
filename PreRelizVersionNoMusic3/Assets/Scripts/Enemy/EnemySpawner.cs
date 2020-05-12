@@ -27,7 +27,7 @@ public class EnemySpawner : MonoBehaviour
     
     
     
-    private float countsOfenemy = 10f;
+    private float countsOfenemy = 5f;
 
     private bool spawn = true;
     
